@@ -1,0 +1,36 @@
+main {
+  color:whitesmoke;
+  background-color: olive;
+  border: 10px solid transparent;
+  border-image: url(shork.jfif) 30% round;
+}
+body {
+  background: url(chinese-dragon-background-full-hd-1080p-277820.jpg);
+  background-size:cover;  
+}
+
+#wrapper{
+  width:60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.a {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(shork.jfif) 30% round;
+}
+
+.specialborder {
+  border: 10px solid transparent;
+  border-image: url(shork.jfif) 30% round;
+  height: 300px;
+}
+
+ul {
+  list-style-image: url("ruhroh.png");
+  }
+
+.tall {
+  height: 300px; 
+}
